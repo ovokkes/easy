@@ -1,0 +1,2 @@
+# easy
+on tea testnet
